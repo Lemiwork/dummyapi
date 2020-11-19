@@ -1,6 +1,11 @@
 {
-  "notification/count": 
+  "posts": [
     {
-      "unreadMessages": 42
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
