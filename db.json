@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "notification": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "count",
+      "unreadMessages": "42"
     }
   ],
-  "notification/count": {
+  "notification": {
     "unreadMessages": 42
   }
 }
