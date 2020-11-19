@@ -1,11 +1,11 @@
 {
-  "notification": [
+  "posts": [
     {
-      "id": "count",
-      "unreadMessages": "42"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "noti": {
-    "mes": "42"
+  "profile": {
+    "name": "typicode"
   }
 }
